@@ -28,7 +28,7 @@ Each of the Gradient Descent and Simulated Annealing folders contains the follow
 	• wigxjpf.h (for Simulated Annealing): header file for the evaluation of wigner 3j coefficients
 
 REQUIREMENTS
-In order to successfully run main.cpp you need to have the following installed:
+You need to have the following installed:
 	• Numpy, scipy, FiPy, and matplotlib (Python)
 	• wigxjpf library and program for evaluation of wigner 3j coefficients (http://fy.chalmers.se/subatom/wigxjpf/)
 	• Eigen: a c++ template library for linear algebra (http://eigen.tuxfamily.org/)
