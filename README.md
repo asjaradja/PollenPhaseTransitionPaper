@@ -1,11 +1,11 @@
 # PhaseDiagramCalculations
 This is a repository of the code essential for the [TITLE] paper. It contains the following files and folders:
 	- PhaseDiagramCalculations: All code for building the phase diagram and finding kinetically arrested states
-	⁃	GradientDescent_1l: Gradient descent for 1 el value used to find equilibrium states
+		- GradientDescent_1l: Gradient descent for 1 el value used to find equilibrium states
 	⁃	GradientDescent_2l: Gradient descent for 2 el values used to find equilibrium states
 	⁃	SimulatedAnnealing_1l: Simulated annealing for 1 el value used to find equilibrium states
 	⁃	SimulatedAnnealing_2l: Simulated annealing for 2 el values used to find equilibrium states
-	⁃	FiPyPhaseFieldCrystalSphere.ipynb: Finite volume solver used to find kinetically arrested states
+	⁃FiPyPhaseFieldCrystalSphere.ipynb: Finite volume solver used to find kinetically arrested states
 	•	TraitReconstruction
 	⁃	3State_WavelengthModel
 	⁃	SpermatophyteTree.tre: Tree file
