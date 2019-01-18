@@ -5,7 +5,7 @@ This is a repository of the code essential for the Pollen Cell Wall Patterns For
 		- GradientDescent_2l: Gradient descent for 2 el values used to find equilibrium states
 		- SimulatedAnnealing_1l: Simulated annealing for 1 el value used to find equilibrium states
 		- SimulatedAnnealing_2l: Simulated annealing for 2 el values used to find equilibrium states
-		- FiPyPhaseFieldCrystalSphere.ipynb: Finite volume solver used to find kinetically arrested states
+		- ConservedDynamics: Contains code for FiPyPhaseFieldCrystalSphere.ipynb, the finite volume solver used to find kinetically arrested states; and surface plots for the three simulations in Figure 2
 	• TraitReconstruction
 		- 3State_WavelengthModel
 			- SpermatophyteTree.tre: Tree file
