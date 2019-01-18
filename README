@@ -29,7 +29,7 @@ Each of the Gradient Descent and Simulated Annealing folders contains the follow
 
 REQUIREMENTS
 You need to have the following installed:
-	• Numpy, scipy, FiPy, and matplotlib (Python)
+	• Numpy, scipy, FiPy, mayavi, math, and matplotlib (Python)
 	• wigxjpf library and program for evaluation of wigner 3j coefficients (http://fy.chalmers.se/subatom/wigxjpf/)
 	• Eigen: a c++ template library for linear algebra (http://eigen.tuxfamily.org/)
 	• BayesTraits software (http://www.evolution.rdg.ac.uk/BayesTraitsV3.0.1/BayesTraitsV3.0.1.html)
